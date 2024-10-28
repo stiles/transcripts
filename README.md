@@ -1,2 +1,4 @@
-# transcripts
-Converting YouTube videos to accurate transcripts using closed captioning or audio-to-text tools. 
+# Transcripts
+Converting YouTube videos to accurate transcripts using closed captioning or speech-to-text models. 
+
+*Details TK*.
